@@ -65,11 +65,6 @@ Cosine Similarity (Classes): 0.67
 Cosine Similarity (Properties): 0.61
 ```
 
-## Files
-
-- **compare_ontologies.py**: Main script for loading ontologies and calculating similarity.
-- **examples/**: Directory containing example ontology files for testing.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
