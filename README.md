@@ -1,5 +1,3 @@
----
-
 # Ontology Similarity Checker
 
 This project provides a framework for assessing the similarity between two ontologies using Jaccard and Cosine similarity measures. The framework is developed in Python and utilizes the `rdflib` and `owlready2` libraries to load, parse, and analyze ontologies in OWL format.
@@ -23,7 +21,7 @@ This project provides a framework for assessing the similarity between two ontol
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ontology-similarity-checker.git
+    git clone https://github.com/Aditya19Joshi01/Ontology-Similarity-Checking.git
     cd ontology-similarity-checker
     ```
 
@@ -81,5 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the developers of `rdflib` and `owlready2` for their powerful libraries.
 - Thanks to the Protégé team for providing an excellent ontology editor.
-
----
