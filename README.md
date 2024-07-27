@@ -22,7 +22,6 @@ This project provides a framework for assessing the similarity between two ontol
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Aditya19Joshi01/Ontology-Similarity-Checking.git
-    cd ontology-similarity-checker
     ```
 
 2. **Install the required Python libraries:**
